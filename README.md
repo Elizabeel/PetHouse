@@ -87,7 +87,7 @@ Este projeto proporcionou uma vivência prática de como funciona o desenvolvime
 
 ## Mas detalhes do projeto neste arquivo : 
 
-[[[📘 ProjetoPetHouse.pdf](ProjetoPetHouse.pdf)](https://drive.google.com/file/d/1bPmvBbxQ4SnunyPluSqaaKNUbH1fa8PC/view?usp=sharing)]
+https://drive.google.com/file/d/1bPmvBbxQ4SnunyPluSqaaKNUbH1fa8PC/view?usp=sharing
 
 
 
