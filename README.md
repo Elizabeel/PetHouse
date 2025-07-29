@@ -43,6 +43,8 @@ O projeto foi desenvolvido utilizando **Scrum**, com sprints, reuniões diárias
 - **Scrum Master:** Tirando todos os impedimentos, ensinando as práticas do Scrum, garantindo que todos os processos estejam sendo realizados. 
 - **Dev Team:**  Time de desenvolvimento, no foco de desenvolver o Software e atingir os objetivos de cada sprint.
 
+<img width="606" height="420" alt="image" src="https://github.com/user-attachments/assets/07f38a29-5848-4cdb-8180-0c8d83950ee7" />
+
 ---
 
 ## Telas do Sistema
